@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elyse Niyonagira, a computer programming student at Algonquin college passionate about building impactful digital solutions.
 - 👀 I’m interested in software development, business analysis, and using technology to improve community services.
-- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, SQL, PL/SQL, Python, Dart, and C++.
+- 🌱 I’m currently learning Java, JavaScript, HTML, CSS, PHP, SQL, PL/SQL, Python, Dart, and C++.
 - 💞️ I’m looking to collaborate on projects that aim to improve everyday life through technology.
 - ⚡ Fun fact: ...
 
